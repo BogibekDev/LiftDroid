@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863650918548",
+    "project_id": "liftdroid-46766",
+    "storage_bucket": "liftdroid-46766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863650918548:android:bb6556f99869c3e7620481",
+        "android_client_info": {
+          "package_name": "dev.bogibek.liftdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863650918548-g6n4dp7pvo7akt33houl4tpbq1omunsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.bogibek.liftdroid",
+            "certificate_hash": "69acaa905b628b4b1de860e3ee12516ab3754c87"
+          }
+        },
+        {
+          "client_id": "863650918548-qgite5vvhc0iqt4q5idiqvllsk6b1ilp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIyGJ7xQazUjY0OvRfVukfJButTHok-tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863650918548-qgite5vvhc0iqt4q5idiqvllsk6b1ilp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
