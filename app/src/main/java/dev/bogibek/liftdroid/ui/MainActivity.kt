@@ -1,4 +1,4 @@
-package dev.bogibek.liftdroid
+package dev.bogibek.liftdroid.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
